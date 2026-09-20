@@ -1,8 +1,7 @@
-Python
-Streamlit
+streamlit
 pandas
 numpy
 requests
 scikit-learn == 1.6.1
-plotly 6.3.0
-joblib 1.5.2
+plotly
+joblib
